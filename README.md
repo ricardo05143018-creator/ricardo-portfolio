@@ -1,8 +1,8 @@
+
 # Zhixun Zheng
 
 Research, code, and writing, collected in one place.
 
-This repository brings together my independent research projects, computational experiments, and creative writing.
 ## Research & Computational Projects
 
 ### 01. Cross-Domain Time-Series Research
@@ -39,6 +39,7 @@ A novel of approximately 43,000 words, told across fifteen chapters and an epilo
 I also built a companion website where readers can explore the story beyond the chapters: an unresolved bus route, its evidence, overlapping timelines, character records, and moments from the novel.
 
 - [Read the Novel & Explore the Archive](https://orchard-place-preview.vercel.app/)
+- [Complete Novel (PDF)](./Orchard_Place.pdf)
 
 ### 06. Eleven Days, Ten Years
 
@@ -46,10 +47,18 @@ I watched ten years of *My Hero Academia* in eleven days, then wrote about what 
 
 The resulting literary essay follows what happened to my sense of time, memory, and attachment along the way.
 
+- [Read the Essay (PDF)](./Eleven%20Days,%20Ten%20Years.pdf)
+
 ### 07. If Anything Is Wrong
 
 A 16-page experimental story that begins with small corrections to dates and objects. As the corrections accumulate, they start changing entire passages, the chronology, and eventually the relationship at the center of the story.
 
+- [Read the Story (PDF)](./If_Anything_Is_Wrong.pdf)
+
 ### 08. Independent Creative Nonfiction
 
-Three essays about different things: a World Cup comeback, a band arrangement, and an attempt to explain code to my mother.
+Three essays: a World Cup comeback, a band arrangement, and an attempt to explain code to my mother.
+
+- [I Liked It Less (PDF)](./I%20Liked%20It%20Less.pdf)
+- [Ten Minutes Left (PDF)](./Ten%20Minutes%20Left.pdf)
+- [The First Line (PDF)](./The%20First%20Line.pdf)
